@@ -8,4 +8,4 @@ Furthermore, the optimized trajectories are analyzed for the stability using Flo
 
 This project was taken as a master's thesis. Thesis report is also provide for more information. 
 
-Further a research article was published on this project. Accessible at:https://www.sciencedirect.com/science/article/pii/S1876610216314126
+Further a research article was published on this project. Accessible at: https://www.sciencedirect.com/science/article/pii/S1876610216314126
